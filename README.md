@@ -31,7 +31,7 @@ Para instalar KaliBspwm, sigue estos pasos:
   - recursos otros
      ```bash
     apt install apt install flameshot -y
- para instalar nvim 
+# para instalar nvim 
 ![Texto alternativo](pictures/2023-12-29_05-25.png)
 ```bash
     primero nos bajamos este repo
