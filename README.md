@@ -54,4 +54,8 @@ Para instalar KaliBspwm, sigue estos pasos:
     -xf  nvim-linux64.tar.gz 
     mv nvim-linux64 /opt
    ```
+- una vez lista nos vamos a nuestra .zshrc y modificamos
+   ```bash
+    nano /home/tu_usario/.zshrc
+   ```
 
