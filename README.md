@@ -51,8 +51,8 @@ primero nos bajamos este repo como root
  ![Texto alternativo](pictures/2.png)
  
  
- - una vez configurado movemos los archivos necesarios:
-  extraemos y movemos la carpeta
+ - una vez configurado  extraemos y movemos la carpeta:
+ 
     ```bash
     -xf  nvim-linux64.tar.gz 
     mv nvim-linux64 /opt
