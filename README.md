@@ -40,9 +40,10 @@ Para instalar KaliBspwm, sigue estos pasos:
    ```
   NOTA: Se debe hacer lo mismo para tenerlo como usuario no privilegiado
 
- luego
+ luego nos vamos a eca https://github.com/neovim/neovim/releases/tag/v0.9.4
 ![Texto alternativo](pictures/n1.png)
- 
+ y descargamos esta version
+ ![Texto alternativo](pictures/2.png)
  ```bash
   
    ```
