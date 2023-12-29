@@ -11,7 +11,7 @@
 ### como iniciar
 
 vamos a este repositorio  ( gracias ZLcube ;)
-
+https://github.com/ZLCube/KaliBspwm
 cd KaliBspwm
 
 chmod +x install.sh
