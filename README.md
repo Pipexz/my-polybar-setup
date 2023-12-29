@@ -10,7 +10,7 @@
 
 ### como iniciar
 
-vamos a este reposotorio  ( gracias ZLcube ;)
+vamos a este repositorio  ( gracias ZLcube ;)
 
 cd KaliBspwm
 
@@ -22,3 +22,5 @@ chmod +x install.sh
  cd mi_setup/
  
  mv bin bspwm polybar sxhkd ~/.config 
+
+ - instalamos
