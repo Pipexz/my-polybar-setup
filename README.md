@@ -63,3 +63,9 @@ primero nos bajamos este repo como root
    ```
    
 ![Texto alternativo](pictures/nano.png)
+
+- Bajas y agregas esto donde esta alias
+   ```bash
+    #nvim
+   alias nvim='/opt/nvim-linux64/bin/nvim'
+   ```
