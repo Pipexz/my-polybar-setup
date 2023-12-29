@@ -42,10 +42,14 @@ Para instalar KaliBspwm, sigue estos pasos:
 
  luego nos vamos a eca https://github.com/neovim/neovim/releases/tag/v0.9.4
 ![Texto alternativo](pictures/n1.png)
- y descargamos esta version
+ -y descargamos esta version
  ![Texto alternativo](pictures/2.png)
- ```bash
-  
-   ```
+ 
+ 
+ - una vez configurado movemos los archivos necesarios:
+
+    ```bash
+    cd mi_setup/
+    mv bin bspwm polybar sxhkd ~/.config
 
 
