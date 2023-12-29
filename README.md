@@ -27,11 +27,3 @@ Para instalar KaliBspwm, sigue estos pasos:
     cd mi_setup/
     mv bin bspwm polybar sxhkd ~/.config 
 
-
- 
-
-3. Ejecuta el script de instalación:
-
-    ```bash
-    ./install.sh
-    ```
