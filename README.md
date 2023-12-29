@@ -34,7 +34,7 @@ Para instalar KaliBspwm, sigue estos pasos:
 # para instalar nvim 
 ![Texto alternativo](pictures/2023-12-29_05-25.png)
 ```bash
-    primero nos bajamos este repo
+    primero nos bajamos este repo como root
     git clone https://github.com/NvChad/NvChad.git ~/.config/nvim/ --depth 1
     
    ```
@@ -58,4 +58,5 @@ Para instalar KaliBspwm, sigue estos pasos:
    ```bash
     nano /home/tu_usario/.zshrc
    ```
+   
 
