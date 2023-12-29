@@ -17,7 +17,8 @@ cd KaliBspwm
 chmod +x install.sh
 
 ./install.sh
-- una vez configurado
- cd cd mi_setup/
+- una vez configurado hacemos esto
+
+ cd mi_setup/
  
  mv bin bspwm polybar sxhkd ~/.config 
