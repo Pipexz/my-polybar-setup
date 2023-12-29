@@ -1,7 +1,3 @@
-# my-polybar-setup-
+# Bienveniso a mi setup
 
 
-```python
-def ejemplo():
-    print("Hola, mundo!")
-```
