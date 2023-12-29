@@ -62,4 +62,4 @@ primero nos bajamos este repo como root
     nano /home/tu_usario/.zshrc
    ```
    
-
+![Texto alternativo](pictures/2023-12-29_05-25.png)
