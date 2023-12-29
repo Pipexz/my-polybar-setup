@@ -33,8 +33,11 @@ Para instalar KaliBspwm, sigue estos pasos:
     sudo su apt install apt install flameshot -y
 # para instalar nvim 
 ![Texto alternativo](pictures/2023-12-29_05-25.png)
+
+
+primero nos bajamos este repo como root
 ```bash
-    primero nos bajamos este repo como root
+    
     git clone https://github.com/NvChad/NvChad.git ~/.config/nvim/ --depth 1
     
    ```
