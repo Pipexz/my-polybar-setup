@@ -51,7 +51,7 @@ Para instalar KaliBspwm, sigue estos pasos:
  - una vez configurado movemos los archivos necesarios:
 
     ```bash
-    cd mi_setup/
+    -extramos el archivo tar -xf  nvim-linux64.tar.gz 
     mv bin bspwm polybar sxhkd ~/.config
 
 
