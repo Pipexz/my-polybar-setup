@@ -8,43 +8,27 @@
 * otros recurso 
 
 
-### como iniciar
-
-vamos a este repositorio  ( gracias ZLcube ;)
-
-https://github.com/ZLCube/KaliBspwm
-cd KaliBspwm
-
-chmod +x install.sh
-
-./install.sh
-- una vez configurado hacemos esto
-
- cd mi_setup/
- 
- mv bin bspwm polybar sxhkd ~/.config 
-
- - instalamos
-
-
 Para instalar KaliBspwm, sigue estos pasos:
 
-1. Clona el repositorio:
+1. Clona el repositorio(gracias ZLCube):
 
     ```bash
     git clone https://github.com/ZLCube/KaliBspwm.git 
     cd KaliBspwm
     chmod +x install.sh
-
-  ./install.sh
+   ./install.sh
+ 
      
     ```
 
-2. Otorga permisos de ejecución al script:
+2. una vez configurado movemos los archivos necesarios:
 
     ```bash
-    chmod +x install.sh
-    ```
+    cd mi_setup/
+    mv bin bspwm polybar sxhkd ~/.config 
+
+
+ 
 
 3. Ejecuta el script de instalación:
 
