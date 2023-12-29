@@ -38,11 +38,13 @@ Para instalar KaliBspwm, sigue estos pasos:
     git clone https://github.com/NvChad/NvChad.git ~/.config/nvim/ --depth 1
     
    ```
-   NOTA: Se debe hacer lo mismo para tenerlo como usuario no privilegiado
+  NOTA: Se debe hacer lo mismo para tenerlo como usuario no privilegiado
+
+ luego
+![Texto alternativo](pictures/n1.png)
+ 
  ```bash
-    primero nos bajamos este repo
-    git clone https://github.com/NvChad/NvChad.git ~/.config/nvim/ --depth 1
-     NOTA: Se debe hacer lo mismo para tenerlo como usuario no privilegiado
+  
    ```
 
 
