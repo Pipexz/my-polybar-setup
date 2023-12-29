@@ -25,3 +25,29 @@ chmod +x install.sh
  mv bin bspwm polybar sxhkd ~/.config 
 
  - instalamos
+
+
+Para instalar KaliBspwm, sigue estos pasos:
+
+1. Clona el repositorio:
+
+    ```bash
+    git clone https://github.com/ZLCube/KaliBspwm.git 
+    cd KaliBspwm
+    chmod +x install.sh
+
+  ./install.sh
+     
+    ```
+
+2. Otorga permisos de ejecución al script:
+
+    ```bash
+    chmod +x install.sh
+    ```
+
+3. Ejecuta el script de instalación:
+
+    ```bash
+    ./install.sh
+    ```
