@@ -25,12 +25,12 @@ Para instalar KaliBspwm, sigue estos pasos:
 
     ```bash
     cd mi_setup/
-    mv bin bspwm polybar sxhkd ~/.config
+    sudo su mv bin bspwm polybar sxhkd ~/.config
 
 
   - recursos otros
      ```bash
-    apt install apt install flameshot -y
+    sudo su apt install apt install flameshot -y
 # para instalar nvim 
 ![Texto alternativo](pictures/2023-12-29_05-25.png)
 ```bash
