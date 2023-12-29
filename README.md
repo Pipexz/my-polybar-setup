@@ -32,5 +32,4 @@ Para instalar KaliBspwm, sigue estos pasos:
      ```bash
     apt install apt install flameshot -y
 
-
-
+![Texto alternativo](pictures/2023-12-29_05-25.png)
