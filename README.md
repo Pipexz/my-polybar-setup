@@ -5,3 +5,6 @@
 
 
 ### como iniciar
+
+vamos a este reposotorio  ( gracias ZLcube ;)
+https://github.com/ZLCube/KaliBspwm
