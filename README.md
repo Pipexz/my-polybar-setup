@@ -69,3 +69,5 @@ primero nos bajamos este repo como root
     #nvim
    alias nvim='/opt/nvim-linux64/bin/nvim'
    ```
+
+   y LISTO!!
