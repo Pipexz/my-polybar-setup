@@ -28,7 +28,7 @@ Para instalar KaliBspwm, sigue estos pasos:
     mv bin bspwm polybar sxhkd ~/.config
 
 
-3. recursos otros
+  - recursos otros
      ```bash
     apt install apt install flameshot -y
 
