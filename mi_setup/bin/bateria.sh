@@ -7,13 +7,12 @@ capacity=$(cat /sys/class/power_supply/BAT0/capacity)
 status=$(cat /sys/class/power_supply/BAT0/status)
 
 # Definir colores para diferentes estados de la batería
-charging_color="%{F#00FF00}"  #  cuando está cargando
-discharging_color="%{F#FF0000}"  # cuando está descargando
-full_color="%{F#FFF}"  # cuando está completamente cargada
-
+charging_color="%{F#00FF00}"  #  cuando está cargando (verde)
+discharging_color="%{F#FFFFFF}"  # cuando está descargando
+full_color="%{F#7dcfff}"  # cuando está completamente cargada
 # Seleccionar el color apropiado según el estado de la batería
 if [ "$status" = "Charging" ]; then
-      color=$chargind_color
+      color=$charging_color
 elif [ "$status" = "Discharging" ]; then
     color=$discharging_color
 else
