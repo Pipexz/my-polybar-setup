@@ -71,3 +71,11 @@ primero nos bajamos este repo como root
    ```
 
    y LISTO!!
+
+
+UNA MENCION HONORIFICA A ZLCube, y a s4vitar por su gran Trabajo te dejo el enlace a los perfiles de cada uno de ellos
+
+- ZLCube https://github.com/ZLCube/KaliBspwm
+-tito S4vitar https://github.com/s4vitar
+
+
