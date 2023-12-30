@@ -144,7 +144,9 @@ super + shift + b
 #flameshot
 super + shift + p
         flameshot gui &
-
+# Obsidian
+super + shift + p
+        flameshot gui &
 ###############
 # ScreenShots #
 ###############
