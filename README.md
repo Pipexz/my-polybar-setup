@@ -30,7 +30,7 @@ Para instalar KaliBspwm, sigue estos pasos:
 
   - recursos otros
      ```bash
-    sudo su apt install apt install flameshot -y
+    sudo su apt install flameshot -y
 # para instalar nvim 
 ![Texto alternativo](pictures/2023-12-29_05-25.png)
 
